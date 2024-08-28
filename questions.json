@@ -1,0 +1,12 @@
+{
+  "LinuxBuildProcessor": {
+    "initial": "Girish For what service would you like to build this Linux pattern?",
+    "service": "Which version of the service would you like to use for %s?",
+    "complete": "Building Linux pattern for the specified service version: %s"
+  },
+  "WindowsBuildProcessor": {
+    "initial": "For what service would you like to build this Windows pattern?",
+    "service": "Which version of the service would you like to use for %s?",
+    "complete": "Building Windows pattern for the specified service version: %s"
+  }
+}
